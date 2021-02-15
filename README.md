@@ -8,7 +8,7 @@
 
 
 ---
-![](342309-PA9PNI-658.jpg)
+![](images.jfif)
 ---
 
 This data set has 403 rows and 6 columns.
